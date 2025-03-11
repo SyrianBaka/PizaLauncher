@@ -1,6 +1,6 @@
-<H1 align="center">PojavLauncher</H1>
+<H1 align="center">PizaLauncher</H1>
 
-<img src="https://github.com/PojavLauncherTeam/PojavLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/assets/pojavlauncher.png" align="left" width="130" height="150" alt="PojavLauncher logo">
+<img src="https://github.com/SyrianBaka/PizaLauncher/blob/v3_openjdk/app_pojavlauncher/src/main/res/mipmap-xxxhdpi/Crafter_JE3.png" align="left" width="120" height="120" alt="PojavLauncher logo">
 
 [![Android CI](https://github.com/PojavLauncherTeam/PojavLauncher/workflows/Android%20CI/badge.svg)](https://github.com/PojavLauncherTeam/PojavLauncher/actions)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/PojavLauncherTeam/PojavLauncher)](https://github.com/PojavLauncherTeam/PojavLauncher/actions)
@@ -8,20 +8,20 @@
 [![Discord](https://img.shields.io/discord/724163890803638273.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.com/invite/aenk3EUvER) 
 [![Twitter Follow](https://img.shields.io/twitter/follow/plaunchteam?color=blue&style=flat-square)](https://twitter.com/PLaunchTeam)
 
-* From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes here comes PojavLauncher!
+* From [Boardwalk](https://github.com/zhuowei/Boardwalk)'s ashes here comes PizaLauncher!
 
-* PojavLauncher is a launcher that allows you to play Minecraft: Java Edition on your Android device!
+* PizaLauncher is a launcher that allows you to play Minecraft: Java Edition on your Android device!
 
 * It can run almost every version of Minecraft, allowing you to use .jar only installers to install modloaders such as [Forge](https://files.minecraftforge.net/) and [Fabric](http://fabricmc.net/), mods like [OptiFine](https://optifine.net) and [LabyMod](https://www.labymod.net/en), as well as hack clients like [Wurst](https://www.wurstclient.net/), and much more!
 
 * For more details [check out our wiki](https://pojavlauncherteam.github.io/)
 ## Some notes to start with
 - We do not have an official TikTok account. No one from the dev team makes TikTok videos. 
-- The official Twitter for PojavLauncher is [@PLaunchTeam](https://twitter.com/PLaunchTeam). Any others (most notably @PojavLauncher) are fake.
+- The official Twitter for PizaLauncher is [@PLaunchTeam](https://twitter.com/PLaunchTeam). Any others (most notably @PojavLauncher) are fake.
 
 ## Navigation
 - [Introduction](#introduction)  
-- [Getting PojavLauncher](#getting-pojavlauncher)
+- [Getting PizaLauncher](#getting-pojavlauncher)
 - [Building](#building) 
 - [Current status](#current-status) 
 - [License](#license) 
